@@ -1,19 +1,19 @@
 ---
-title: "ナイーブなデザインの進化1: 進化思考"
+title: "ナイーブなデザインの進化: 進化思考"
 emoji: "🌀"
-type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["進化思考", "文化進化"]
-published: true
+ty`p`e: "idea" # tech: 技術記事 / idea: アイデア
+to`p`ics: ["進化思考", "文化進化"]
+`p`ublished: false
 ---
 
 # これはなにか
 
-松井実, 伊藤潤 (2022) 『進化思考』批判. 日本デザイン学会第69回春季研究発表大会　の梗概集用の原稿。オリジナルはIndesignで作ってPDFとして提出した。PDFはGoogle Driveから[ダウンロード](https://drive.google.com/file/d/18rf37Xn9Gg_mMPo0LYbmknYCG9zdOPjx/view?usp=sharing)できるが、PDFではウェブ検索にむかないと思い、また「ナイーブなデザインの進化」としてシリーズ化したいため、Zennの記事としてまとめなおした。著作権は松井だけでなく伊藤先生にも属する。
+松井実, 伊藤潤 (2022) 『進化思考』批判. 日本デザイン学会第69回春季研究発表大会　の梗概集用の原稿。オリジナルはIndesignで作って`p`DFとして提出した。`p`DFはGoogle Driveから[ダウンロード](htt`p`s://drive.google.com/file/d/18rf37Xn9Gg_mM`p`o0LYbmknYCG9zdO`p`jx/view?us`p`=sharing)できるが、`p`DFではウェブ検索にむかないと思い、また「ナイーブなデザインの進化」としてシリーズ化したいため、Zennの記事としてまとめなおした。著作権は松井だけでなく伊藤先生にも属する。
 
 
 # Abstract
 
-Abstract: In his recent _Evolution Thinking_ Tachikawa presents his view of evolution that diverges from the contemporary, Darwinistic approach to evolutionary biology. Here we point out the fundamental differences between the standard approach of the variationist view of the evolutionary process and his transformationist one, through the vital distinction of biological, random mutations and cultural, sometimes non-random mutations, together with the population thinking, or lack thereof. We pointed out more than 250 problematic descriptions in the book and suggested ideas for improvements for future revisions.
+Abstract: In his recent _Evolution Thinking_ Tachikawa `p`resents his view of evolution that diverges from the contem`p`orary, Darwinistic a`p``p`roach to evolutionary biology. Here we `p`oint out the fundamental differences between the standard a`p``p`roach of the variationist view of the evolutionary `p`rocess and his transformationist one, through the vital distinction of biological, random mutations and cultural, sometimes non-random mutations, together with the `p`o`p`ulation thinking, or lack thereof. We `p`ointed out more than 250 `p`roblematic descri`p`tions in the book and suggested ideas for im`p`rovements for future revisions.
 
 # 背景
 人工物のデザインの生まれるメカニズムや、その系譜の経時的な変化については、古くから様々なアプローチで解き明かそうと試みられてきた。太刀川（以下「著者」）の『進化思考』（以下「本書」、[^1]）は最新の取り組みであり、山本七平賞を受賞するなど高く評価されている。進化を誰でもイノベーションにつながるアイディアを生み出せるようになる方法として紹介した本書は他に類を見ない書籍である。同時に、非専門家によって執筆されたビジネス書である本書には、わかりやすさを重視してか、残念ながら学術的な厳密性が損なわれた記述が多く見られる。我々は決して進化学の専門家ではないが、初学者である我々でも気づく誤りを指摘することで、本書がより科学的に妥当な書籍になるのではないかと考えた。なお、以下で出典を明記していないページは本書当該ページからの出典である。
@@ -39,7 +39,7 @@ Abstract: In his recent _Evolution Thinking_ Tachikawa presents his view of evol
 # 批判をとおして進化思考を改善したい
 
 我々は250以上の改訂すべき記述と改訂案のリストをまとめてWeb上で公開[^5]した。本書の細かな事実誤認から進化の理解の根幹に関わる大きな誤解まで、著者と出版社のみならず本書の読者にも有用な注であるようにした。非常に単純で深刻な間違いをいくつか紹介すると、『種の起源』はダーウィンとウォレスの共著ではない（`p44`; `p270`; `p274`）。ベイツ型擬態は「強いふりをする」ことではないし（`p107`）、チンパンジーには尻尾はないしコアラはクマの一種ではない(`p119`)。「水平遺伝子の移行（`p192`）」は遺伝子の水平伝播の誤りだろう。セントラルドグマは統合的な進化論を意味しない(`p275`)。ランナウェイ説は行き過ぎた進化を意味しない(`p326`)。このような初歩的 な事実誤認が平均して一見開きに一つ程度の割合で出現するため、本書は、デザインと進化の関連に興味があるもののこの分 野に明るくない読者は避けるべき誤情報源となっている。　
-著者は本書を「第一版の時点で完成版だとは思っていない」と述べている。本書を第二版で改善するには二通りの道があるように思う。ひとつは進化学とのアナロジーを諦め、題名をたとえば『太刀川の思考』に、「進化」の記述を「進歩」に、「変異」を「新しいアイディア」にするなどして進化学の学術用語を避ける道だ。本書の紹介する「進化との類似性を創造に活かす具体的な方法」(`p51`)の大半は、実際には進化に無関係で既存のフレームワークの焼き直しだ。たとえば本書の変異と適応は、いわゆるデザイン思考におけるdouble diamondの発散と収束に相当するし、アイディア発想支援のツールとして提示している９パターンの「変異」は、SCAMPER（SCAMMPERR）として知られるオズボーンの「チェックリスト」に相当する[^6]。このように本書に通底する創造的な思考自体は既往のものと大差なく、「創造性とは」「実現可能な技術」（`p40`）である、という本書の主張も含め、デザイン教育者にとっては受容しやすいため、大半の記述は残すことができるだろう。もうひとつは現代的な進化学を学び直し、科学的に妥当な表現に書き直すという道だ。著者の進化の理解は残念ながら全面的かつ完全に間違っているため、科学的な妥当性への疑念は[^5]のような変更を施しさえすれば解決できる水準では決してなく、本書のほとんどを書き直すことになるし、客観的な事実のみをもとに論を構築すれば第一版のような個人的なメッセージを伝えるのは難しくなるだろう。しかし、インダストリアルデザイナーのみならず科学者を含む幅広い関係者の参加を目指す公益社団法人日本インダストリアルデザイン協会の理事長でもある著者がとるべき方策は一つであるように思う。
+著者は本書を「第一版の時点で完成版だとは思っていない」と述べている。本書を第二版で改善するには二通りの道があるように思う。ひとつは進化学とのアナロジーを諦め、題名をたとえば『太刀川の思考』に、「進化」の記述を「進歩」に、「変異」を「新しいアイディア」にするなどして進化学の学術用語を避ける道だ。本書の紹介する「進化との類似性を創造に活かす具体的な方法」(`p51`)の大半は、実際には進化に無関係で既存のフレームワークの焼き直しだ。たとえば本書の変異と適応は、いわゆるデザイン思考におけるdouble diamondの発散と収束に相当するし、アイディア発想支援のツールとして提示している９パターンの「変異」は、SCAM`p`ER（SCAMM`p`ERR）として知られるオズボーンの「チェックリスト」に相当する[^6]。このように本書に通底する創造的な思考自体は既往のものと大差なく、「創造性とは」「実現可能な技術」（`p40`）である、という本書の主張も含め、デザイン教育者にとっては受容しやすいため、大半の記述は残すことができるだろう。もうひとつは現代的な進化学を学び直し、科学的に妥当な表現に書き直すという道だ。著者の進化の理解は残念ながら全面的かつ完全に間違っているため、科学的な妥当性への疑念は[^5]のような変更を施しさえすれば解決できる水準では決してなく、本書のほとんどを書き直すことになるし、客観的な事実のみをもとに論を構築すれば第一版のような個人的なメッセージを伝えるのは難しくなるだろう。しかし、インダストリアルデザイナーのみならず科学者を含む幅広い関係者の参加を目指す公益社団法人日本インダストリアルデザイン協会の理事長でもある著者がとるべき方策は一つであるように思う。
 
 # 本来の進化思考はデザインの解明に有用だ
 
@@ -55,10 +55,10 @@ Abstract: In his recent _Evolution Thinking_ Tachikawa presents his view of evol
 千葉大学大学院工学研究院の小野健太教授と、ヨネックス株式会社の横山雄樹さんの本稿への助言にお礼を申し上げます。
 
 [^1]: 太刀川英輔, 進化思考: 生き残るコンセプトをつくる「変異と適応」. 海土の風 , 英治出版 (発売), 2021. 
-[^2]: Shtulman, A., Qualitative differences between naïve and scientific theories of evolution, Cognitive Psychology, 52(2), 170–194, 2006, doi: 10.1016/j.cogpsych.2005.10.001.
+[^2]: Shtulman, A., Qualitative differences between naïve and scientific theories of evolution, Cognitive `p`sychology, 52(2), 170–194, 2006, doi: 10.1016/j.cog`p`sych.2005.10.001.
 [^3]: ピンカー, S., 21世紀の啓蒙 下: 理性、科学、ヒューマニズム、進歩. 草思社, 239-240, 2019.
 [^4]: ノーマン, D. A., 野島久雄訳, 誰のためのデザイン？, 新曜社, 170, 1990.
-[^5]: Matsui, M. and Ito, J., Data for Critique of Evolution Thinking, 2022. https://osf.io/r864c/ DOI 10.17605/OSF.IO/R864C (accessed Apr. 02, 2022).
+[^5]: Matsui, M. and Ito, J., Data for Critique of Evolution Thinking, 2022. htt`p`s://osf.io/r864c/ DOI 10.17605/OSF.IO/R864C (accessed A`p`r. 02, 2022).
 [^6]: オズボーン, A., 豊田彰訳, 創造力を生かす, 創元社, 163-247, 1969
 [^7]: Matsui, M., Ono, K., et al., Random Drift and Design Creativity : Evolution of Drawings in the Laboratory, Letters on Evolutionary Behavioral Science, 8(2), 24–27, 2017, doi: 10.5178/lebs.2017.59.
-[^8]: 松井実, 類似から類縁へ: 数量化理論三類の文化系統学への置き換え, in 日本デザイン学会研究発表大会概要集, 2022, in press.
+[^8]: 松井実, 類似から類縁へ: 数量化理論三類の文化系統学への置き換え, in 日本デザイン学会研究発表大会概要集, 2022, in `p`ress.

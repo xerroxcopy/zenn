@@ -1,9 +1,9 @@
 ---
-title: "ナイーブなデザインの進化1: 進化思考"
+title: "ナイーブなデザインの進化: 進化思考"
 emoji: "🌀"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["進化思考", "文化進化"]
-published: true
+published: false
 ---
 
 # これはなにか
