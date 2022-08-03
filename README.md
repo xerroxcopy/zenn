@@ -17,4 +17,4 @@ $ npm i zenn-cli
 $ npx zenn new:article
 ```
 
-`.md`ファイルの名前は12文字以上でないとダメ
+`.md`ファイルの名前は12文字以上でないとダメ。また、`$ npx zenn new:article`は`./article`フォルダではなくルートでやらないといけない（でないと`article`フォルダ内に`article`フォルダが新設される）。
