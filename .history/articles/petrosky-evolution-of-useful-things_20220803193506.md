@@ -8,13 +8,9 @@ published: false
 
 # はじめに
 
-デザインと進化学の関連について述べている一般書における進化学理解についてまとめる必要性を感じている。
+デザインと進化学の関連について述べている一般書における進化学理解についてまとめる必要性を感じている。初回は[進化思考](https://zenn.dev/minoru_matsui/articles/evolution-thinking), 第二回はLongo, G. (2009)　[Epistemological Turn](https://zenn.dev/minoru_matsui/articles/epistemological-turn), この第三回はヘンリー・ペトロスキー著『フォークの歯はなぜ四本になったか：実用品の進化論』、原題The Evolution of Useful Things (1992)をとりあげる。この文章はその読書記録。進化学との不整合がメインのテーマだが、誤訳などについても触れている。
 
-- 初回は太刀川英輔 (2021) [進化思考](https://zenn.dev/minoru_matsui/articles/evolution-thinking), 
-- 第二回はLongo, G. (2009) [Epistemological Turn](https://zenn.dev/minoru_matsui/articles/epistemological-turn), 
-- この第三回はヘンリー・ペトロスキー著『フォークの歯はなぜ四本になったか：実用品の進化論』、原題The Evolution of Useful Things (1992)をとりあげる。
-
-この文章はその読書記録。主なの目的は進化学との不整合、デザインの本に蔓延するナイーブな進化観を明らかにすることだが、その過程でいくつかの誤訳にも触れている。Takramの田川さんと谷口さんによるTakram Castの[Innovation Discovery - Episode 3 -フォークの歯はなぜ四本になったか](https://cast.takram.com/podcast/innovation-discovery-03)を聞いてから読むと面白いかもしれない。
+Takramの田川さんと谷口さんによるTakram Castの[Innovation Discovery - Episode 3 -フォークの歯はなぜ四本になったか](https://cast.takram.com/podcast/innovation-discovery-03)と一緒に読むと面白いかもしれない。
 
 # 題名
 

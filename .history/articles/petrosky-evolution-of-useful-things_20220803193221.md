@@ -8,13 +8,9 @@ published: false
 
 # はじめに
 
-デザインと進化学の関連について述べている一般書における進化学理解についてまとめる必要性を感じている。
+デザインと進化学の関連について述べている一般書における進化学理解についてまとめる必要性を感じている。初回は[進化思考](https://zenn.dev/minoru_matsui/articles/evolution-thinking), 第二回はLongo, G. (2009)　[Epistemological Turn](https://zenn.dev/minoru_matsui/articles/epistemological-turn), この第三回はヘンリー・ペトロスキー著『フォークの歯はなぜ四本になったか：実用品の進化論』、原題The Evolution of Useful Things (1992)をとりあげる。この文章はその読書記録。進化学との不整合がメインのテーマだが、誤訳などについても触れている。
 
-- 初回は太刀川英輔 (2021) [進化思考](https://zenn.dev/minoru_matsui/articles/evolution-thinking), 
-- 第二回はLongo, G. (2009) [Epistemological Turn](https://zenn.dev/minoru_matsui/articles/epistemological-turn), 
-- この第三回はヘンリー・ペトロスキー著『フォークの歯はなぜ四本になったか：実用品の進化論』、原題The Evolution of Useful Things (1992)をとりあげる。
-
-この文章はその読書記録。主なの目的は進化学との不整合、デザインの本に蔓延するナイーブな進化観を明らかにすることだが、その過程でいくつかの誤訳にも触れている。Takramの田川さんと谷口さんによるTakram Castの[Innovation Discovery - Episode 3 -フォークの歯はなぜ四本になったか](https://cast.takram.com/podcast/innovation-discovery-03)を聞いてから読むと面白いかもしれない。
+Takramの田川さんと谷口さんによるTakram Castの[Innovation Discovery - Episode 3 -フォークの歯はなぜ四本になったか](https://cast.takram.com/podcast/innovation-discovery-03)と一緒に読むと面白いかもしれない。
 
 # 題名
 
@@ -24,12 +20,10 @@ published: false
 - 最後に、フォークの歯は四本になっていない。一本でフォークと呼ぶものはもうない（というかいつの時代もない）が、2､3､4､5本歯のものは現存する。単純に、明らかに間違っていることをなぜ題名にしたのだろう、そしてなぜ誰もそこを突っ込まないのだろうか…
 - また、チェイン的（AからBに、BからCに、そしてDに到達した）なのも進化の観点からいうと問題であるように思う
 
-ということで訳者というかおそらくこの題名を強要したのではないかと思われる出版社はこのTikTokを見るべきだ：
+# 第一章　フォークの歯は四本になっていないのでは…
+
 https://www.tiktok.com/@jackie.mack/video/6810444953223728390?is_copy_url=1&is_from_webapp=v1&lang=en
 
-Onek...
-
-# 第一章　フォークの歯は四本になっていないのでは…
 
 > 一つの人工物の進化の足跡をたどった 
 > —— p6
@@ -106,17 +100,16 @@ p45「それとも、人工物は生物体と同じく、より大きな相関�
 ![](/images/petrosky-evolution-of-useful-things/The-Lullian-Staircase-Raymond-Lull-De-Nova-Logica-Valencia-1512-Reproduced-from-The_W640.jpg)
 *Fig. 18. The Lullian Staircase. Raymond Lull, De Nova Logica. Valencia, 1512. Reproduced from The Cosmographical Glass by S. K. Heninger, The Huntington Library, 1977: 161." [source](https://www.researchgate.net/publication/292449676_Figure_of_Lilith_and_the_feminine_demonic_in_early_modern_literature/figures?lo=1)*
 
-その後も本章では「完璧なデザイン」についてさまざまな方法で論じているが、私にはなぜここまで完璧なデザインとその不在についてこだわるのかよくわからなかった。完璧なデザインがないこと、そこにたどり着けないことがどう重要なのかがわからない。私に響かないだけで、完璧なデザインがありうると思っている人がたくさんいるのだろうか…？先史的な、非常に初歩的なデザインから完璧なデザインへとつながるひとつながりの梯子、というモデルがまず受け入れられない。進化を論じるなら梯子を登っていくことではなく枝分かれにこそ注目すべきだと思う。現生する生物種に優劣はないという文脈で、「すべての現生する生物種は等しく素晴らしい、絶滅せずにそれぞれが適応し、生き延びられるようになっているのだから」みたいなことをドーキンスが利己的な遺伝子で言っていた気がする…のだが、該当する記述を見つけられなかった。ともかく、デザインの世界でもハーバート・サイモンの`satisficing`という考えがある。
+その後も本章では「完璧なデザイン」についてさまざまな方法で論じているが、私にはなぜここまで完璧なデザインとその不在についてこだわるのかよくわからなかった。完璧なデザインがないこと、そこにたどり着けないことがどう重要なのかがわからない。私に響かないだけで、完璧なデザインがありうると思っている人がたくさんいるのだろうか…？先史的な、非常に初歩的なデザインから完璧なデザインへとつながるひとつながりの梯子、というモデルがまず受け入れられない。進化を論じるなら梯子を登っていくことではなく枝分かれにこそ注目すべきだと思う。現生する生物種に優劣はないという文脈で、「すべての現生する生物種は等しく素晴らしい、絶滅せずにそれぞれが適応し、生き延びられるようになっているのだから」みたいなことをドーキンスが利己的な遺伝子で言っていた気がする…のだが、該当する記述を見つけられなかった。ともかく、デザインの世界でもハーバート・サイモンのsatisficingという考えがある。
 
 > 「satisfy (満足させる)」と「suffice (十分である)」を掛け合わせた言葉で、「不満なく事足りている (good enough である)」状態を表わしています。限定合理性 (bounded rationality) の研究で知られる認知心理学者のハーバート・サイモン氏 (Herbert Simon) による造語と言われ、人は課題解決において自ずと達成希望水準を設定していて、限定された条件下で手っ取り早くその水準以上の解決が成されればそこで満足しがちである (それ以上の理想の追求はしない) 
 > —— Accessible & Usable (2016) [「satisficing」を考える](https://accessible-usable.net/2016/08/entry_160831.html). Accessed 2022-07-18
 
-生物の進化においてもこの`satisficing`という考えは適用できるように思う。特に有名なのが擬態や毒だろう。とても精巧な擬態やとても強い毒は、そこまで磨き上げなければいけなかったから生じたものだ。つまり、擬態を見破ろうとしたり毒を解毒してしまおうとする相手との競争が起きて、淘汰圧がそこまでかかり続けた結果、軍拡競争的に発達し獲得したデザインだからだ。逆に、こんなんで擬態の効果あるのか？本当に擬態か？と疑ってしまうような擬態もあるが、それでも彼らには十分`satisficing`だったのだ。なので、完璧など定義せずとも、good enoughといえるところまではみな適応度地形をかけあがるが、種内にせよ種間にせよそういった淘汰圧がかからなくなったとたんにそこは（局所的にせよ）最適解といってよいように思う。
+生物の進化においてもこのsatisficingという考えは適用できるように思う。特に有名なのが擬態や毒だろう。とても精巧な擬態やとても強い毒は、そこまで磨き上げなければいけなかったから生じたものだ。つまり、擬態を見破ろうとしたり毒を解毒してしまおうとする相手との競争が起きて、淘汰圧がそこまでかかり続けた結果、軍拡競争的に発達し獲得したデザインだからだ。逆に、こんなんで擬態の効果あるのか？本当に擬態か？と疑ってしまうような擬態もあるが、それでも彼らには十分satisficingだったのだ。なので、完璧など定義せずとも、good enoughといえるところまではみな適応度地形をかけあがるが、種内にせよ種間にせよそういった淘汰圧がかからなくなったとたんにそこは（局所的にせよ）最適解といってよいように思う。
 
 こんな図をみつけた。本書もおそらく似たようなことを考えていて、
 
-![](../images/petrosky-evolution-of-useful-things/Value.jpg)
-*Lucy Collins (2022) [Satisficing: how users browse online](https://info.webusability.co.uk/blog/satisficing-vs-optimising-how-users-browse-online). Accessed 2022-07-18*
+Lucy Collins (2022) Satisficing: how users browse online. Accessed 2022-07-18
 
 この図にも賛成できない…。いや、ちゃうんすよ、別に私、ひとさまの作ったもの全てに文句をつけてまわりたいわけではないんですよ。単に進化とデザインの関連になるとろくな言説がないだけなんです。許して！まず、横軸がeffortならば、valueのあがりかたはeffortに対して学習/試行錯誤して獲得するものなので、価値との関係は学習曲線のようなS字曲線（もしくは小文字のrもありうる。後述）のような曲線になるのではないか：
 

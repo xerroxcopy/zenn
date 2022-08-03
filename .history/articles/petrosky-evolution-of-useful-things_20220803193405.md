@@ -8,13 +8,9 @@ published: false
 
 # はじめに
 
-デザインと進化学の関連について述べている一般書における進化学理解についてまとめる必要性を感じている。
+デザインと進化学の関連について述べている一般書における進化学理解についてまとめる必要性を感じている。初回は[進化思考](https://zenn.dev/minoru_matsui/articles/evolution-thinking), 第二回はLongo, G. (2009)　[Epistemological Turn](https://zenn.dev/minoru_matsui/articles/epistemological-turn), この第三回はヘンリー・ペトロスキー著『フォークの歯はなぜ四本になったか：実用品の進化論』、原題The Evolution of Useful Things (1992)をとりあげる。この文章はその読書記録。進化学との不整合がメインのテーマだが、誤訳などについても触れている。
 
-- 初回は太刀川英輔 (2021) [進化思考](https://zenn.dev/minoru_matsui/articles/evolution-thinking), 
-- 第二回はLongo, G. (2009) [Epistemological Turn](https://zenn.dev/minoru_matsui/articles/epistemological-turn), 
-- この第三回はヘンリー・ペトロスキー著『フォークの歯はなぜ四本になったか：実用品の進化論』、原題The Evolution of Useful Things (1992)をとりあげる。
-
-この文章はその読書記録。主なの目的は進化学との不整合、デザインの本に蔓延するナイーブな進化観を明らかにすることだが、その過程でいくつかの誤訳にも触れている。Takramの田川さんと谷口さんによるTakram Castの[Innovation Discovery - Episode 3 -フォークの歯はなぜ四本になったか](https://cast.takram.com/podcast/innovation-discovery-03)を聞いてから読むと面白いかもしれない。
+Takramの田川さんと谷口さんによるTakram Castの[Innovation Discovery - Episode 3 -フォークの歯はなぜ四本になったか](https://cast.takram.com/podcast/innovation-discovery-03)と一緒に読むと面白いかもしれない。
 
 # 題名
 
@@ -24,12 +20,10 @@ published: false
 - 最後に、フォークの歯は四本になっていない。一本でフォークと呼ぶものはもうない（というかいつの時代もない）が、2､3､4､5本歯のものは現存する。単純に、明らかに間違っていることをなぜ題名にしたのだろう、そしてなぜ誰もそこを突っ込まないのだろうか…
 - また、チェイン的（AからBに、BからCに、そしてDに到達した）なのも進化の観点からいうと問題であるように思う
 
-ということで訳者というかおそらくこの題名を強要したのではないかと思われる出版社はこのTikTokを見るべきだ：
+# 第一章　フォークの歯は四本になっていないのでは…
+
 https://www.tiktok.com/@jackie.mack/video/6810444953223728390?is_copy_url=1&is_from_webapp=v1&lang=en
 
-Onek...
-
-# 第一章　フォークの歯は四本になっていないのでは…
 
 > 一つの人工物の進化の足跡をたどった 
 > —— p6
