@@ -62,10 +62,10 @@ https://www.nationalgeographic.com/science/article/the-angelina-jolie-project
 
 - 大きな唇をもつ個体は大きな唇をもつ相手を選好して交配するのか？を調べたところ、ラボでも現地でもそのようだった。
 - Plenary Lectureでは触れられていなかったが、動画によるとビクトリア湖の厚唇表現型はたくさんの遺伝子が少しづつ貢献する`polygenic`な表現型だったらしい。それに対し、ニカラグアの厚唇は単一の遺伝子によるもので、メンデリアンな特徴を示した^[動画42分あたり]
-- また、動画によると人間用のボトックスで薄唇型のシクリッドの唇を無理やり整形し、表現型と遺伝子型を切り離し、獲得形質としてしまう実験も行った^[Henning et al. (2017) [_Genetic dissection of adaptive form and function in rapidly speciating cichlid fishes_](https://kops.uni-konstanz.de/bitstream/handle/123456789/39404/Henning_2-18p8i4jx03bwz4.pdf?sequence=1). Evolution. 71(**5**)]
+- また、動画によると人間用のボトックスで薄唇型のシクリッドの唇を無理やり整形し、表現型と遺伝子型を切り離し、獲得形質としてしまう実験もやった^[Henning et al. (2017) [_Genetic dissection of adaptive form and function in rapidly speciating cichlid fishes_](https://kops.uni-konstanz.de/bitstream/handle/123456789/39404/Henning_2-18p8i4jx03bwz4.pdf?sequence=1). Evolution. 71(**5**)]
 - 先述の4つの表現型に関して、2群に分けてGWASの[Manhattan plot](https://en.wikipedia.org/wiki/Manhattan_plot)によって差をみた（たぶん）
-- 2つのLociが厚唇に効いていることがわかった。それ以外の遺伝子はdifferentiateしていなかった
-- 体表の色（黒vs金）で比べた場合も1 Locusにしか差がでない
+- 2つのLociが厚唇に効いていることがわかった。それ以外の遺伝子はdifferentiateしていなかった。
+- 体表の色（黒vs金）で比べた場合も1 Locusにしか差がでない。
 
 ![](/images/axel-meyer-cichlid/gwas-manhattan.png)
 
