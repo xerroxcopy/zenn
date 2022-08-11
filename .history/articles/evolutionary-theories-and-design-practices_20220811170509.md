@@ -2,7 +2,7 @@
 title: "ナイーブなデザインの進化4: Evolutionary Theories and Design Practices"
 emoji: "🫥"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: ["ナイーブなデザインの進化", "DesignIssues"]
+topics: ["ナイーブなデザインの進化", "designissues"]
 published: true
 ---
 
