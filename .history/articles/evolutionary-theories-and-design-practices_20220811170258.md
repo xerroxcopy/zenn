@@ -11,10 +11,10 @@ published: true
 - 初回は太刀川英輔 (2021) [進化思考](https://zenn.dev/minoru_matsui/articles/evolution-thinking), 
 - 第二回はLongo, G. (2009) [_Epistemological Turn_](https://zenn.dev/minoru_matsui/articles/epistemological-turn), 
 - 第三回はPetroski, H. (1992) _The Evolution of Useful Things_ （未完成）
-- 今回はWhyte, J. (2007) _Evolutionary theories and design practices_ を紹介する。
+- 第四回はWhyte, J. (2007) _Evolutionary theories and design practices_ を紹介する。
 
 
-MIT PressのDesign IssuesにはLangrish (2004)^[Langrish, J. Z. (2004) _Darwinian Design: The Memetic Evolution of Design Ideas._ Design Issues 20(**4**) 4–19.]というかなりまともな論文がある。今回はLangrishの内容を踏襲しつつ拡張したDesign Issuesの進化論文第二弾、Whyte (2007)^[Whyte, J. (2007) )_Evolutionary theories and design practices_. Design Issues, 23, 46–54]を紹介する。この論文じたいの内容はそこまでナイーブではないが、やりたいことの一貫で読んでいるのでこのシリーズに入れる。
+MIT PressのDesign IssuesにはLangrish (2004)^[Langrish, J. Z. (2004) _Darwinian Design: The Memetic Evolution of Design Ideas._ Design Issues 20(**4**) 4–19.]というかなりまともな論文がある。今回はLangrishの内容を踏襲しつつ拡張したDesign Issuesの進化論文第二弾、Whyte (2007)^[Whyte, J. (2007) )_Evolutionary theories and design practices_. Design Issues, 23, 46–54]を紹介する。あんまりナイーブじゃないのだけど…。
 
 
 # Introduction
