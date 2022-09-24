@@ -17,7 +17,7 @@ mmにしたければ`geom_line()`や`element_line()`の`size`を0.75でわろう
 困っているのはこれ：
 ![](/images/ggplot2-size/wakalang.png)
 
-順に説明しよう。まずマニュアルにおいて、`element_line()`などで使われるサイズは`mm`単位であると、`size: Line/border size in mm; text size in pts.`と書いてある：
+マニュアルにおいて、`element_line()`などで使われるサイズは`mm`単位であると、`size: Line/border size in mm; text size in pts.`と書いてある：
 
 ![](/images/ggplot2-size/manual.png)
 
