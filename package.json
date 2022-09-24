@@ -1,7 +1,7 @@
 {
   "name": "zenn",
   "version": "1.0.0",
-  "description": "",
+  "description": "『進化思考』批判の指摘リストを共同編集にしたため、Github連携をしたくともできなくなり、こちらに2022-08-03以降は書き溜めていこうかなと思っている。xerroxcopyと同じ松井実が書いている。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/xerroxcopy/zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.117"
+    "zenn-cli": "^0.1.125"
   }
 }
