@@ -155,6 +155,23 @@ ggsave("./output/text_size_test.png", width = 2000, height = 1000, units = "px")
 
 `aes()`内で指定した場合と、`geom_text()`内で指定した場合の実際のフォントサイズの差はこうなる：
 
+```r
+tibble(
+  aes_pt = c(2.85, 7.59, 9.55, 11.06, 12.33, 13.45, 14.46, 15.39, 16.26, 17.07), 
+  manual_pt = c(2.85, 5.69, 8.54, 11.38, 14.23, 17.07, 19.92, 22.76, 25.61, 28.45),
+  x = 1:10
+) |>  
+  pivot_longer(cols = ends_with("pt"), names_to = "settings", values_to = "pt") |>  
+  ggplot(aes(x, pt, colour = settings)) +
+  geom_line() +
+  geom_point() +
+  geom_point(x = 3.88, y = 11.04, colour = "red") +
+  geom_point(x = 4, y = 11.38, colour = "blue") +
+  scale_y_continuous(limits = c(0, NA)) +
+  theme_cichlid
+ggsave("./output/text_size_relationship2.png", width = 2000, height = 1000, units = "px")
+```
+
 ![](/images/ggplot2-size/text_size_relationship2.png)
 
 3.88付近の値がぐちゃぐちゃになってしまっているが…。ややこしい。
